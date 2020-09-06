@@ -6,4 +6,4 @@ To play, download [file](files/tic_tac_toe.py.zip) and run the file by opening t
 foo@bar:~$ python tic_tac_toe.py
 ```
 
-<a href="tic_tac_toe.py" download>Click to Download</a>
+<a href="tic_tac_toe.zip" download>Click to Download</a>
